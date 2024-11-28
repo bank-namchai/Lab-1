@@ -4,7 +4,8 @@ int main (){
 		
 	int num1;
 	int num2;
-	printf("n1:n2\n");
+	printf("n1\n");
+	printf("n2\n");
 	scanf("%d %d",&num1,&num2);
 //		printf("n2:");
 //	scanf("%d",&num2);
